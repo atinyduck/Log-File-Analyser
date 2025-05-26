@@ -41,7 +41,7 @@ You only need Python 3.6 or higher installed on your system.
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/atinyduck/Log-File-Analyser
-    cd log-file-analyzer
+    cd Log-File-Analyzer
     ```
 
 2.  **No further installation is needed for the basic version**, as it only uses standard Python libraries.

@@ -57,7 +57,7 @@ Below are listed plans for future enhancements and additions.
 
 ## Contributions
 
-## Lisence#
+## Lisence
 
 ## Contact
 

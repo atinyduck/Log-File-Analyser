@@ -40,7 +40,7 @@ You only need Python 3.6 or higher installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/log-file-analyzer.git](https://github.com/YourUsername/log-file-analyzer.git)
+    git clone https://github.com/<YOUR USERNAME>/log-file-analyzer.git
     cd log-file-analyzer
     ```
     *(Replace `YourUsername` with your actual GitHub username)*

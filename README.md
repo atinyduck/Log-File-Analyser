@@ -40,7 +40,7 @@ You only need Python 3.6 or higher installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/atinyduck/log-file-analyzer.git](https://github.com/atinyduck/Log-File-Analyser)
+    git clone https://github.com/atinyduck/Log-File-Analyser
     cd log-file-analyzer
     ```
 
